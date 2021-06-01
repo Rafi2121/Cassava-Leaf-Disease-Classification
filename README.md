@@ -12,5 +12,5 @@ Researches stages:
 * Interpretation of Result
 * Convert Model to TFLite for Mobile Apps
 
-### Screenshots
-![Gameplay Screenshot](./assets/Steps.png)
+### Architecture Model Illustration
+![Gameplay Screenshot](./Assets/Steps.png)
