@@ -11,3 +11,6 @@ Researches stages:
 * Evalution
 * Interpretation of Result
 * Convert Model to TFLite for Mobile Apps
+
+### Screenshots
+![Gameplay Screenshot](./assets/Steps.png)
